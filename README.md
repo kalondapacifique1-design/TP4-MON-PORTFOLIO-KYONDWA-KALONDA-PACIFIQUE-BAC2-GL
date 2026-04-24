@@ -7,4 +7,5 @@
 Projet de Portfolio développé avec Laravel dans le cadre du TP4. Gestion des projets (CRUD), formulaire de contact avec enregistrement en base de données, et espace d'administration.
 
 ## Lien vers la vidéo de présentation
-[Colle ici le lien de ta vidéo Loom]
+https://www.loom.com/share/a95a95f330ce496584943bd04dd45c77
+
