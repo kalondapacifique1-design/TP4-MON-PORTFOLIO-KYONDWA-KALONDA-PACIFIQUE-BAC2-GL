@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #ffffff 0%, #e9ecef 100%);
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.btn-lg {
+    padding: 12px 30px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn-lg:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.rounded-circle {
+    border: 5px solid #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
